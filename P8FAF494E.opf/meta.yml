@@ -1,0 +1,45 @@
+id: P8FAF494E
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG6257
+  instance_id: http://purl.bdrc.io/resource/IE1KG6257
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - གསུང་འབུམ། མདོ་སྔགས་ཆོས་ཀྱི་རྒྱ་མཚོ།
+  alt_title:
+    zh-hans:
+    - 果洛古籍丛书 宋热文集（1）
+  author: http://purl.bdrc.io/resource/P5425
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    d00adbd57e214f1aa8292052db976394:
+      title: པོད ༣་གསུང་འབུམ། མདོ་སྔགས་ཆོས་ཀྱི་རྒྱ་མཚོ།
+      volume_number: 3
+      base_file: UT1KG6257_I1KG6307_0000.txt
+      reference: http://purl.bdrc.io/resource/VL1871649B405D5D54
+      image_group: I1KG6307
+      quality: Low
+    e8636653160343d598d1b1ec5998a98f:
+      title: པོད ༢་གསུང་འབུམ། མདོ་སྔགས་ཆོས་ཀྱི་རྒྱ་མཚོ།
+      volume_number: 2
+      base_file: UT1KG6257_I1KG6306_0000.txt
+      reference: http://purl.bdrc.io/resource/VL5E382F6AC0AD7308
+      image_group: I1KG6306
+      quality: Low
+    39ca75494e4b413cb7c3c05ff6e62980:
+      title: པོད ༡་གསུང་འབུམ། མདོ་སྔགས་ཆོས་ཀྱི་རྒྱ་མཚོ།
+      volume_number: 1
+      base_file: UT1KG6257_I1KG6305_0000.txt
+      reference: http://purl.bdrc.io/resource/VL7926F1531331C269
+      image_group: I1KG6305
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1KG6257
+  - http://purl.bdrc.io/resource/W1KG6257
+  ocr_software: Namsel
+created_at: '2021-12-22T10:58:39.051065'
+last_modified_at: '2021-12-22T10:58:39.051071'
